@@ -15,3 +15,4 @@ for i in range(N - 1):
         a[p] = t
 
 print(a)
+

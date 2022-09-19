@@ -23,3 +23,5 @@ my_array = array('i', [5, 3, 4, 9, 7, 6, 2, 1, 8])
 
 
 print(selection_sort(my_array))
+
+
