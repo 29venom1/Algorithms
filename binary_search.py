@@ -15,9 +15,9 @@ def binary_search(list, item):
 
 
 my_list = list(range(1,101))
-print(my_list)
+print(my_list[69])
 
 print(binary_search(my_list, 70))
-print(binary_search(my_list, -1))
+# print(binary_search(my_list, -1))
 
 
