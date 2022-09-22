@@ -1,6 +1,7 @@
 a = [5, 3, 4, 9, 7, 6, 2, 1, 8]
 N = len(a)
 
+# Selection sort  O(n**2)
 for i in range(N - 1):
     m = a[i]
     p = i
@@ -15,4 +16,3 @@ for i in range(N - 1):
         a[p] = t
 
 print(a)
-

@@ -1,5 +1,5 @@
 def bin_ser_rec(list, item):
-    """binary search recursion"""
+    """binary search recursion  O(log n)"""
     low = 0
     high = len(list)-1
 
