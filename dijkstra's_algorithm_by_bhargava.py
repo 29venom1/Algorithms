@@ -5,6 +5,7 @@ graph = {"start": {"a": 6,
                "fin": 5},
          "fin": {}}
 
+
 infinity = float("inf")
 
 costs = {"a": 6,
